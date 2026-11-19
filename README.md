@@ -16,19 +16,19 @@
 - CSS3
 
 ## Project structure
-.
-├─Images/
-│    └                      # Folder containing the images used across the website
-├─style/
-|     └ style.css           # Styling for all of the pages across the website
-├─HTML pages/
-├     └ index.html          # Website landing page
-├     └ Tours.html          # The page listing available tours
-├     └ ImageGallery.html   # The gallery of images from past tours
-├     └ About.html          # The page with information about the company
-├     └ ContactUs.html      # The page with company contact details
-├     └ Ts&Cs.html          # Terms & Conditions tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored
-├     └ PrivacyPolicy.html  # Privacy Policy tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored
+.<br/>
+├─Images/<br/>
+│    └                      # Folder containing the images used across the website<br/>
+├─style/<br/>
+|     └ style.css           # Styling for all of the pages across the website<br/>
+├─HTML pages/<br/>
+├     └ index.html          # Website landing page<br/>
+├     └ Tours.html          # The page listing available tours<br/>
+├     └ ImageGallery.html   # The gallery of images from past tours<br/>
+├     └ About.html          # The page with information about the company<br/>
+├     └ ContactUs.html      # The page with company contact details<br/>
+├     └ Ts&Cs.html          # Terms & Conditions tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored<br/>
+├     └ PrivacyPolicy.html  # Privacy Policy tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored<br/>
 
 my-project/
 ├── README.md
