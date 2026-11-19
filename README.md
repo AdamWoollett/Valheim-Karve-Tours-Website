@@ -17,7 +17,6 @@
 
 ## Project structure
 Valheim-Karve-Tours-Website/<br/>
-
 └─Images/<br/>
 &emsp;&emsp;├─ 4 of us trimmed 3.png<br />
 &emsp;&emsp;├─ Black Forest.png<br />
