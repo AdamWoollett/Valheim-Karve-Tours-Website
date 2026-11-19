@@ -1,6 +1,6 @@
-#Valheim Karve Tours Website
+# Valheim Karve Tours Website
 
-##Overview
+## Overview
 - This repository contains the files for a 5-page website for a fictional yachting tours website set in the world of Valheim. 
 - There is a home page giving an overview of the company and its services, with convenient buttons for a visitor to use to view the tours on offer. 
 - The Tours page displays the tour packages that the company offers, with direct links to the booking form. 
@@ -15,7 +15,7 @@
 - HTML5
 - CSS3
 
-##Project structure
+## Project structure
 .
 ├─Images/
 │    └                      # Folder containing the images used across the website
