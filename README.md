@@ -1,5 +1,32 @@
-This respository contains the files for a 5-page website for a fictional yachting tours website set in the world of Valheim. There is a home page giving an overview of the company and its services. The tours page displays the different tours that a customer could purchase. The Image Gallery page contains a collection of in-game screenshots used as photos showing the yachting tours in action. The About page gives an overview of the company, its background and experience. The Contact Us page contains an HTML form that could be used by a customer to send an enquiry about a tour, along with contact details of team members and an an embedded iframe of Google Maps showing the Head Office location. Each page contains a Naviagation Bar and Footer, and the first 4 pages contains a call to action button that takes the customer to the Contact Us page.
+#Valheim Karve Tours Website
 
-This website is compatible with desktop and mobile internet browsers, with the page elements adapting to different screen sizes to provide a smooth user experience no matter the device used to visit the website.
+##Overview
+- This repository contains the files for a 5-page website for a fictional yachting tours website set in the world of Valheim. 
+- There is a home page giving an overview of the company and its services, with convenient buttons for a visitor to use to view the tours on offer. 
+- The Tours page displays the tour packages that the company offers, with direct links to the booking form. 
+- The Image Gallery page contains a collection of screenshots used as photos showing previous tours.
+- The About page gives an overview of the company, its background and the experience of its founders.
+- The Contact Us page contains an HTML form to be used by a customer to enquire about a tour. There is also contact details of relevant team members and an an embedded iframe of Google Maps showing the Head Office location.
+- Each page contains a Navigation Bar and Footer that has consistent styling across the site.
+- This website is compatible with desktop and mobile internet browsers. CSS media queries are used to have the page elements adapt to different screen sizes to provide a smooth user experience no matter the device used.
+- This website has been hosted on AWS Amplify and can be accessed here: https://karve-tours.com/
 
-This website has been hosted on AWS Amplify and can be accessed here: https://karve-tours.com/
+## Tech stack
+- HTML5
+- CSS3
+
+##Project structure
+.
+├─Images/
+│    └                      # Folder containing the images used across the website
+├─style/
+|     └ style.css           # Styling for all of the pages across the website
+├─HTML pages/
+├     └ index.html          # Website landing page
+├     └ Tours.html          # The page listing available tours
+├     └ ImageGallery.html   # The gallery of images from past tours
+├     └ About.html          # The page with information about the company
+├     └ ContactUs.html      # The page with company contact details
+├     └ Ts&Cs.html          # Terms & Conditions tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored
+├     └ PrivacyPolicy.html  # Privacy Policy tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored
+
