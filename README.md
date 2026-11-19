@@ -30,11 +30,11 @@
 ├     └ Ts&Cs.html          # Terms & Conditions tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored<br/>
 ├     └ PrivacyPolicy.html  # Privacy Policy tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored<br/>
 
-my-project/
-├── README.md
-├── src/
-├── data/
-└── assets/
-    ├── logo.png
-    ├── sales-chart.png
-    └── application-screenshot.png
+my-project/<br/>
+├── README.md<br/>
+├── src/<br/>
+├── data/<br/>
+└── assets/<br/>
+    ├── logo.png<br/>
+    ├── sales-chart.png<br/>
+    └── application-screenshot.png<br/>
