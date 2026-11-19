@@ -16,25 +16,30 @@
 - CSS3
 
 ## Project structure
-.<br/>
-├─Images/<br/>
-│    └                      # Folder containing the images used across the website<br/>
-├─style/<br/>
-|     └ style.css           # Styling for all of the pages across the website<br/>
-├─HTML pages/<br/>
-├     └ index.html          # Website landing page<br/>
-├     └ Tours.html          # The page listing available tours<br/>
-├     └ ImageGallery.html   # The gallery of images from past tours<br/>
-├     └ About.html          # The page with information about the company<br/>
-├     └ ContactUs.html      # The page with company contact details<br/>
-├     └ Ts&Cs.html          # Terms & Conditions tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored<br/>
-├     └ PrivacyPolicy.html  # Privacy Policy tied to the booking form. Clarifies that the company is fictional and that data submitted is not sent anywhere or stored<br/>
+Valheim-Karve-Tours-Website/<br/>
 
-my-project/<br/>
-├── README.md<br/>
-├── src/<br/>
-├── data/<br/>
-└── assets/<br/>
-    ├── logo.png<br/>
-    ├── sales-chart.png<br/>
-    └── application-screenshot.png<br/>
+└─Images/<br/>
+&emsp;&emsp;├─ 4 of us trimmed 3.png<br />
+&emsp;&emsp;├─ Black Forest.png<br />
+&emsp;&emsp;├─ Boat 1.png<br />
+&emsp;&emsp;├─ Boat 2.jpeg<br />
+&emsp;&emsp;├─ Boat 3.jpeg<br />
+&emsp;&emsp;├─ Boat 4.jpeg<br />
+&emsp;&emsp;├─ Boat 5.jpg<br />
+&emsp;&emsp;├─ Boat 6.jpg<br />
+&emsp;&emsp;├─ Boat 7.jpg<br />
+&emsp;&emsp;├─ Horizontal stone wall 1.png<br />
+&emsp;&emsp;├─ Mountains 2.jpg<br />
+&emsp;&emsp;├─ Night Time 3.jpg<br />
+&emsp;&emsp;├─ Plains Trimmed 4.png<br />
+&emsp;&emsp;├─ Vertical wall 1.png<br />
+&emsp;&emsp;└─ Vertical wall 2.png<br />
+├─ About.html<br/>
+├─ ContactUs.html<br/>
+├─ ImageGallery.html<br/>
+├─ PrivacyPolicy.html<br/>
+├─ Readme.md<br />
+├─ Tours.html<br/>
+├─ Ts&Cs.html<br/>
+├─ index.html<br/>
+└─ style.css<br/>
