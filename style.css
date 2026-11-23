@@ -24,7 +24,7 @@ body {
         font-family: "Montserrat", sans-serif;
 }
 
-/* Navigation styling*/
+/* Navigation styling for across the site*/
 nav{
         position: fixed; 
         top: 0; 
@@ -85,7 +85,7 @@ nav a:hover{
         }
 }
 
-/*Vertical stone pillars styling*/
+/*Vertical stone pillars styling used across the site*/
 .StonePillar1{
         z-index: 998;
         position: fixed;
@@ -121,7 +121,7 @@ nav a:hover{
         }
 }
 
-/*Footer Styling*/
+/*Footer Styling used across the site*/
 footer{
         display: flex;
         justify-content: center;
@@ -658,4 +658,5 @@ textarea:invalid:not(:placeholder-shown){
 }
 .ClickableLink:visited{
         color:rgb(255, 170, 0);
+
 }
