@@ -37,7 +37,7 @@ Valheim-Karve-Tours-Website/<br/>
 ├─ ContactUs.html<br/>
 ├─ ImageGallery.html<br/>
 ├─ PrivacyPolicy.html<br/>
-├─ Readme.md<br />
+├─ README.md<br />
 ├─ Tours.html<br/>
 ├─ Ts&Cs.html<br/>
 ├─ index.html<br/>
