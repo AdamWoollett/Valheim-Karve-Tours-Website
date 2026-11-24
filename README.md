@@ -16,23 +16,24 @@
 - CSS3
 
 ## Project structure
+```
 Valheim-Karve-Tours-Website/<br/>
-└─Images/<br/>
-&emsp;&emsp;├─ 4 of us trimmed 3.png<br />
-&emsp;&emsp;├─ Black Forest.png<br />
-&emsp;&emsp;├─ Boat 1.png<br />
-&emsp;&emsp;├─ Boat 2.jpeg<br />
-&emsp;&emsp;├─ Boat 3.jpeg<br />
-&emsp;&emsp;├─ Boat 4.jpeg<br />
-&emsp;&emsp;├─ Boat 5.jpg<br />
-&emsp;&emsp;├─ Boat 6.jpg<br />
-&emsp;&emsp;├─ Boat 7.jpg<br />
-&emsp;&emsp;├─ Horizontal stone wall 1.png<br />
-&emsp;&emsp;├─ Mountains 2.jpg<br />
-&emsp;&emsp;├─ Night Time 3.jpg<br />
-&emsp;&emsp;├─ Plains Trimmed 4.png<br />
-&emsp;&emsp;├─ Vertical wall 1.png<br />
-&emsp;&emsp;└─ Vertical wall 2.png<br />
+└─Images/<br/>                              # Images used in the design of the website.
+├    ├─ 4 of us trimmed 3.png<br />
+├    ├─ Black Forest.png<br />
+├    ├─ Boat 1.png<br />
+├    ├─ Boat 2.jpeg<br />
+├    ├─ Boat 3.jpeg<br />
+├    ├─ Boat 4.jpeg<br />
+├    ├─ Boat 5.jpg<br />
+├    ├─ Boat 6.jpg<br />
+├    ├─ Boat 7.jpg<br />
+├    ├─ Horizontal stone wall 1.png<br />
+├    ├─ Mountains 2.jpg<br />
+├    ├─ Night Time 3.jpg<br />
+├    ├─ Plains Trimmed 4.png<br />
+├    ├─ Vertical wall 1.png<br />
+├    └─ Vertical wall 2.png<br />
 ├─ About.html<br/>
 ├─ ContactUs.html<br/>
 ├─ ImageGallery.html<br/>
@@ -42,3 +43,4 @@ Valheim-Karve-Tours-Website/<br/>
 ├─ Ts&Cs.html<br/>
 ├─ index.html<br/>
 └─ style.css<br/>
+```
