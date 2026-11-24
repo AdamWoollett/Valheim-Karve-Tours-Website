@@ -34,13 +34,13 @@ Valheim-Karve-Tours-Website/
 ├    ├─ Plains Trimmed 4.png
 ├    ├─ Vertical wall 1.png
 ├    └─ Vertical wall 2.png
-├─ About.html
-├─ ContactUs.html
-├─ ImageGallery.html
-├─ PrivacyPolicy.html
+├─ About.html                          # About Us page.
+├─ ContactUs.html                      # Contact Us page.
+├─ ImageGallery.html                   # Image Gallery page.
+├─ PrivacyPolicy.html                  # Privacy Policy page.
 ├─ README.md
-├─ Tours.html
-├─ Ts&Cs.html
-├─ index.html
-└─ style.css
+├─ Tours.html                          # Tours page.
+├─ Ts&Cs.html                          # Terms and Conditions page.
+├─ index.html                          # Landing page.
+└─ style.css                           # Styling for the whole site.
 ```
