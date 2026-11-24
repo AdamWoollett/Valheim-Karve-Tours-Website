@@ -17,30 +17,30 @@
 
 ## Project structure
 ```
-Valheim-Karve-Tours-Website/<br/>
-└─Images/<br/>                              # Images used in the design of the website.
-├    ├─ 4 of us trimmed 3.png<br />
-├    ├─ Black Forest.png<br />
-├    ├─ Boat 1.png<br />
-├    ├─ Boat 2.jpeg<br />
-├    ├─ Boat 3.jpeg<br />
-├    ├─ Boat 4.jpeg<br />
-├    ├─ Boat 5.jpg<br />
-├    ├─ Boat 6.jpg<br />
-├    ├─ Boat 7.jpg<br />
-├    ├─ Horizontal stone wall 1.png<br />
-├    ├─ Mountains 2.jpg<br />
-├    ├─ Night Time 3.jpg<br />
-├    ├─ Plains Trimmed 4.png<br />
-├    ├─ Vertical wall 1.png<br />
-├    └─ Vertical wall 2.png<br />
-├─ About.html<br/>
-├─ ContactUs.html<br/>
-├─ ImageGallery.html<br/>
-├─ PrivacyPolicy.html<br/>
-├─ README.md<br />
-├─ Tours.html<br/>
-├─ Ts&Cs.html<br/>
-├─ index.html<br/>
-└─ style.css<br/>
+Valheim-Karve-Tours-Website/
+└─Images/                              # Images used in the design of the website.
+├    ├─ 4 of us trimmed 3.png
+├    ├─ Black Forest.png
+├    ├─ Boat 1.png
+├    ├─ Boat 2.jpeg
+├    ├─ Boat 3.jpeg
+├    ├─ Boat 4.jpeg
+├    ├─ Boat 5.jpg
+├    ├─ Boat 6.jpg
+├    ├─ Boat 7.jpg
+├    ├─ Horizontal stone wall 1.png
+├    ├─ Mountains 2.jpg
+├    ├─ Night Time 3.jpg
+├    ├─ Plains Trimmed 4.png
+├    ├─ Vertical wall 1.png
+├    └─ Vertical wall 2.png
+├─ About.html
+├─ ContactUs.html
+├─ ImageGallery.html
+├─ PrivacyPolicy.html
+├─ README.md
+├─ Tours.html
+├─ Ts&Cs.html
+├─ index.html
+└─ style.css
 ```
